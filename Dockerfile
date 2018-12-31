@@ -1,4 +1,4 @@
-# Docker image for installing dependencies running tests.
+# Docker image for installing dependencies running tests
 # Build with:
 # docker build --tag=etheroll-js .
 # Run with:
